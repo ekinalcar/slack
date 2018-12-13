@@ -1,7 +1,7 @@
 # Slack Debug
 
 ## Installation
-Include the functions.php into your project.You will need an API key from https://get.slack.help/hc/en-us/articles/215770388-Create-and-regenerate-API-tokens
+Include the slack.php into your project.You will need an API key from https://get.slack.help/hc/en-us/articles/215770388-Create-and-regenerate-API-tokens
 
 ## USAGE
 Use your unique web hook url taken from slack,then start debugging.
