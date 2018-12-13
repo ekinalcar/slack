@@ -1,5 +1,4 @@
 # Slack Debug
-PHP wrapper for the official Fortnite API - http://fortnite.midorfeed.net
 
 ## Installation
 Include the functions.php into your project.You will need an API key from https://get.slack.help/hc/en-us/articles/215770388-Create-and-regenerate-API-tokens
